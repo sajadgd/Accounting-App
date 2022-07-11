@@ -1,0 +1,6 @@
+E:\Web\Accounting\Accounting.Utilities\bin\Debug\Accounting.Utilities.dll
+E:\Web\Accounting\Accounting.Utilities\bin\Debug\Accounting.Utilities.pdb
+E:\Web\Accounting\Accounting.Utilities\obj\Debug\Accounting.Utilities.csproj.AssemblyReference.cache
+E:\Web\Accounting\Accounting.Utilities\obj\Debug\Accounting.Utilities.csproj.CoreCompileInputs.cache
+E:\Web\Accounting\Accounting.Utilities\obj\Debug\Accounting.Utilities.dll
+E:\Web\Accounting\Accounting.Utilities\obj\Debug\Accounting.Utilities.pdb
